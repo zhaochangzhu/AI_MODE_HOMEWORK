@@ -1,2 +1,2 @@
 # AI_MODE_HOMEWORK
-中点AI大模型学习作业
+中电AI大模型学习作业
