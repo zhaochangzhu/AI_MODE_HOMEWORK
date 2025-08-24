@@ -284,4 +284,6 @@ Use the Input below to create an instruction, which could have been used to gene
 
 #### 自监督训练
 - 对于没有明确指令标注的大规模文本数据，可以利用已有文本生成潜在指令  
-- 降低人工标注成本  
+- 降低人工标注成本
+
+向李哲大佬学习
